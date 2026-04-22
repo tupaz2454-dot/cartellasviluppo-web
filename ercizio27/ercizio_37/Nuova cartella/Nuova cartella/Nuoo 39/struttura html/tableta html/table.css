@@ -1,0 +1,12 @@
+table td {
+    color:grey;
+
+}
+table{
+    border-collapse:collapsce;
+}
+table td{
+    color:grey;
+    border:1px solid#ccc;
+    padding: 10px;
+}
