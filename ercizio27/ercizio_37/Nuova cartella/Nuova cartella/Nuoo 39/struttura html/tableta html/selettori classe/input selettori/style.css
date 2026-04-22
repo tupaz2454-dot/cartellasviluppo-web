@@ -1,0 +1,17 @@
+campo-input{
+    color:blue;
+}
+titolo{
+    color:green;
+}
+campo-input{
+    color:blue;
+    font-size:16xp;
+    padding:10px;
+    border:2px solid blue;
+    border-radius:5px;
+    width:300px
+}
+titolo{
+    color:green;
+}
