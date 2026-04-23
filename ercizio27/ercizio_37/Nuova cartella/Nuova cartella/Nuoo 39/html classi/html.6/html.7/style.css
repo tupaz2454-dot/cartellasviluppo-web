@@ -1,0 +1,19 @@
+li{
+    margin:0;
+    padding: 10px;
+    list-style-type:none;
+    background-color:lightcoral;
+}
+li{
+    margin:0;
+    margin-bottom: 5px;
+padding: 15px; 20px;
+list-style-type:none;
+background-color:#333;
+color.white;
+cursor:pointer;
+}
+
+li:hover{
+    background-color:#555;
+}
