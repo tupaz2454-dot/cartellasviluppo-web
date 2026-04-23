@@ -1,8 +1,8 @@
-li[
+li{
     margin: 5px;
     padding: 10px;
     color: red;
-]
+}
 
 li{
     margin:5px;
