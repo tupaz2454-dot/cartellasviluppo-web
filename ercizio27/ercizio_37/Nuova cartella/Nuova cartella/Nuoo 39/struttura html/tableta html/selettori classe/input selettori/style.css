@@ -15,3 +15,8 @@ campo-input{
 titolo{
     color:green;
 }
+campò-input:{
+    outline:none;
+    border-color:darkblue;
+    box-shadow:00 5px rgba(0,0,255,0.5);
+}
