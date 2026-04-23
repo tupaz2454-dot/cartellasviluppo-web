@@ -1,0 +1,12 @@
+li{
+    width:180 px;
+    heinght:40px;
+    min-height:30px;
+    max-width:200px;
+    background-color:lightpink;
+    margin:5px;
+    list-style-type:none;
+    padding:10px;
+    border-radius:5px;
+    box-shadow:2px 2px 5px rgba(0,0,0,1);
+}
