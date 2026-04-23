@@ -1,0 +1,16 @@
+li[
+    margin: 5px;
+    padding: 10px;
+    color: red;
+]
+
+li{
+    margin:5px;
+    padding:10px;
+    color:red/*colore dei marker*/
+}
+
+li span{
+    color:black/*colore del testo*/
+}
+
