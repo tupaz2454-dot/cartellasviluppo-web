@@ -1,0 +1,9 @@
+div{
+    box-sizing: border-box;
+    width:300px;
+    padding:20px;
+    border:2px solid green;
+    backgroud-color:#d1fae5;
+    margin: 20px auto;
+    font-family: sans-serif;
+}
