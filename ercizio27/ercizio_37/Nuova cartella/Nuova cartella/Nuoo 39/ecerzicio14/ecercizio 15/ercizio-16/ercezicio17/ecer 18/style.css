@@ -1,0 +1,14 @@
+li: hover[
+color: red;
+]
+
+li[
+    padding:6px 10px;
+    cursor: pointer;
+    transition: color 0.2s;
+]
+
+li:hover[
+    color:red;
+    font-weight:bold;
+]
