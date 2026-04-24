@@ -1,0 +1,23 @@
+li{
+    Box-sizing: content-box;
+    height:40px;
+    padding:10px;
+    list-style-type: style type none;
+    border:2px solid blue;
+}
+
+ul{
+    padding:0;
+    width: 250px;
+}
+
+li{
+    box-sizing: content-box;
+    height:40px;
+    padding:10px;
+    list-style-type:none;
+    border:2px solid blue;
+    background-color:#dbeafe;
+    margin-bottom:4px;
+    font-family:sans-serif;
+}
