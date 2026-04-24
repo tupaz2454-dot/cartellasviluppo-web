@@ -1,0 +1,8 @@
+li:hover{
+    color:blue;
+
+}
+
+li:active[
+    color:orange;
+]
