@@ -18,3 +18,40 @@
     background-color: crimson;
     
 }
+
+.text-grey{
+  color:gray  
+}
+.img-size{
+    width: 600px;
+    height:400px;
+
+}
+
+.margin-0{
+    margin: 0;
+}
+.image-container-background-1{
+    background-image: url(./img/monitor.jpg);
+}
+
+.image-container-background-2 {
+    background-image:url(./imag/graph.jpg);
+}
+
+.image-container-size {
+    height: 200px;
+    width: 300px;
+}
+  .image-font{
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+  }  
+
+  .image-container-size{
+    height: 200px;
+    width:300px;
+  }
+
+
